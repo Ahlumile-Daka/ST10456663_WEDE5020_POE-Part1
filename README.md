@@ -1,4 +1,4 @@
-# ST10456663_WEDE5020_POE-Part1
+Overview of my Website: It has 5 pages, which are home/index, contact, services, enquiry, about us
 References:
 The above information is available at: https://www.shopriteholdings.co.za/ [Accessed date: 16 August 2025]
 The above information is available at: https://www.shoprite.co.za/about-us [Accessed date: 16 August 2025]
